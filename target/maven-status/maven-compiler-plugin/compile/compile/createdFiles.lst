@@ -1,0 +1,10 @@
+APIServicioEntities\ResponseEntidadDTO.class
+openapi-plugin\.index
+APIServicio\ServicioController.class
+json-schemes\index
+APIServicio\ServicioAPI.class
+APIServicioUtils\CalculadoraRanking.class
+APIServicioEntities\RequestEntidadDTO.class
+openapi-plugin\openapi-default.json
+APIServicioUtils\ConverterDTO.class
+APIServicioEntities\InformacionEntidad.class
